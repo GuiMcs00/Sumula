@@ -1,0 +1,7 @@
+xmls/
+
+__pycache__/
+
+.artigos.txt
+
+.env
